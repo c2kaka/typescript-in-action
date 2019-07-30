@@ -1,10 +1,6 @@
 let hello: string = "hello typescript!";
 document.querySelectorAll(".app")[0].innerHTML = hello;
 
-import interfaceDemo from "./interface";
-
-interfaceDemo();
-
 //基本类型
 let x: number = 2;
 let y: string = "hello";
